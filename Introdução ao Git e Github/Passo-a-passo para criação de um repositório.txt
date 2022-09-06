@@ -1,0 +1,19 @@
+1 - Entrar no perfil do Github - Repositório e Criar novo
+2 - nomear o projeto (url)
+3 - Descrever o projeto e deixar público
+4 - Adicionar um README
+5 - Criar repositório
+
+Trabalhando com Git Bash
+
+1 - Copiar o link do repositório (HTTPS)
+2 - Abrir o Git Bash direto da pasta de trabalho escolhida
+3 - Usar git clone <endereço do repositório> 
+4 - Entrar no repositório cd <nome do repositório>
+5 - git status para verificar se está tudo ok
+6 - Após as alterações dar um git status para verificar as modificações para comitar
+7 - git add . para adicionar todos os arquivos
+8 - git status para verificar a inclusão dos novos arquivos
+9 - git commit -m "comentário"
+10 - git push origin main
+ 
